@@ -6,7 +6,6 @@ package com.dept;
 * Assignment: Graded Assessment -1 OOPS
 */
 
-// Testing commit
 public class Main {
 
     public static void displayDepartmentInfo(SuperDepartment dept) {
